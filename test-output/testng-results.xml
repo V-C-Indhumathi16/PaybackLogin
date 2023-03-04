@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-04T10:27:53 IST" name="Default suite" finished-at="2023-03-04T10:32:14 IST" duration-ms="260935">
+    <groups>
+    </groups>
+    <test started-at="2023-03-04T10:27:53 IST" name="Default test" finished-at="2023-03-04T10:32:14 IST" duration-ms="260935">
+      <class name="PaybackpagefactoryTest.PaybackloginTestNG">
+        <test-method signature="signuplog()[pri:0, instance:PaybackpagefactoryTest.PaybackloginTestNG@1a18644]" started-at="2023-03-04T10:27:53 IST" name="signuplog" finished-at="2023-03-04T10:28:00 IST" duration-ms="7001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signuplog -->
+        <test-method signature="paybacklog()[pri:1, instance:PaybackpagefactoryTest.PaybackloginTestNG@1a18644]" started-at="2023-03-04T10:28:00 IST" name="paybacklog" finished-at="2023-03-04T10:28:46 IST" duration-ms="45912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paybacklog -->
+        <test-method signature="unsuccessfullog()[pri:2, instance:PaybackpagefactoryTest.PaybackloginTestNG@1a18644]" started-at="2023-03-04T10:28:46 IST" name="unsuccessfullog" finished-at="2023-03-04T10:29:15 IST" duration-ms="28595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unsuccessfullog -->
+        <test-method signature="forgotlog()[pri:3, instance:PaybackpagefactoryTest.PaybackloginTestNG@1a18644]" started-at="2023-03-04T10:29:15 IST" name="forgotlog" finished-at="2023-03-04T10:29:56 IST" duration-ms="41363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotlog -->
+        <test-method signature="invalidAttempt()[pri:4, instance:PaybackpagefactoryTest.PaybackloginTestNG@1a18644]" started-at="2023-03-04T10:29:56 IST" name="invalidAttempt" finished-at="2023-03-04T10:32:14 IST" duration-ms="138018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidAttempt -->
+      </class> <!-- PaybackpagefactoryTest.PaybackloginTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
